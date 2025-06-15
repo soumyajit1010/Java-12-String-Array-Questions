@@ -32,7 +32,7 @@ Each question includes:
 
 **Soumyajit Rout**  
 📍 B.Tech CSE | ITER, SOA University  
-🔗 [LinkedIn (soumyajit1010)]([https://www.linkedin.com/in/soumyajit1010](https://www.linkedin.com/in/soumyajit-rout-7567b1300/))  
+🔗 [LinkedIn (soumyajit1010)]([https://www.linkedin.com/in/soumyajit1010](https://www.linkedin.com/in/soumyajit-rout-7567b1300/)])  
 🐙 [GitHub Profile](https://github.com/soumyajit1010)
 
 ---
