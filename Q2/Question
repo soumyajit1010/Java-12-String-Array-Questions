@@ -1,0 +1,12 @@
+Q2. Check Palindrome
+Description:
+Check whether the input string is a palindrome (reads the same forward and backward).
+
+Sample Input:
+radar
+apple
+
+Expected Output:
+true
+false
+

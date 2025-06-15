@@ -1,0 +1,12 @@
+Q3. Reverse Each Word in a Sentence
+Description:
+Reverse every word in a string while maintaining the original order of the words.
+
+Sample Input:
+all cows eat grass
+I love programming
+
+Expected Output:
+lla swoc tae ssarg
+I evol gnimmargorp
+

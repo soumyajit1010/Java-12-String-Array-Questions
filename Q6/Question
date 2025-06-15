@@ -1,0 +1,19 @@
+Q6. Teacher Class and Array of Teachers
+Description:
+Create a Teacher class and store 4 teacher objects in an array. Display their details.
+
+Sample Input:
+
+Alex, Java Fundamentals, 1200
+
+John, RDBMS, 800
+
+Sam, Networking, 900
+
+Maria, Python, 900
+
+Expected Output:
+Name: Alex, Subject: Java Fundamentals, Salary: 1200.0
+Name: John, Subject: RDBMS, Salary: 800.0
+Name: Sam, Subject: Networking, Salary: 900.0
+Name: Maria, Subject: Python, Salary: 900.0

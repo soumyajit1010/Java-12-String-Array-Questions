@@ -1,0 +1,10 @@
+Q7. Average Salary & Comparisons
+Description:
+Calculate average salary and count how many salaries are greater or lesser than the average.
+
+Sample Input:
+{23500.0, 25080.0, 28760.0, 22340.0, 19890.0}
+
+Expected Output:
+{23914.0, 2.0, 3.0}
+

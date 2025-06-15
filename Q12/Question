@@ -1,0 +1,27 @@
+✅ Question: Permutations of a 3-character String
+🔷 Problem Statement
+Implement the method findPermutations(String str) to generate all possible permutations of a string.
+Assumption: Length of the input string will always be 3.
+
+🔷 Sample Input and Output
+Input 1
+abc
+Output 1
+abc
+acb
+bac
+bca
+cab
+cba
+
+Input 2
+aad
+Output 2 (with duplicates)
+aad
+ada
+aad
+ada
+daa
+daa
+You may optionally use a Set to remove duplicates if needed.
+

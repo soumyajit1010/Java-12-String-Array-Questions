@@ -1,0 +1,13 @@
+Q9. Find Valid Numbers Based on Condition
+Description:
+Return two-digit numbers between num1 and num2 for which:
+
+Sum of digits is a multiple of 3
+
+Number is a multiple of 5
+
+Sample Input:
+num1 = 10, num2 = 30
+
+Expected Output:
+15, 30

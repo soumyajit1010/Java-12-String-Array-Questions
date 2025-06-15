@@ -1,0 +1,26 @@
+✅ Question: Find Adjacent Occurrence Count
+🔷 Problem Description
+Implement a method named findTotalCount() that accepts an integer array numbers and returns the total number of times the same number appears consecutively (adjacent to each other) in the array.
+
+🔷 Method Signature
+public static int findTotalCount(int[] numbers)
+🔷 Logic
+Traverse through the array.
+
+Compare each element with the next element.
+
+If they are equal, increment the counter.
+
+🔷 Sample Input & Output
+🧪 Sample Input 1
+int[] numbers = {1, 1, 5, 100, -20, 6, 0, 0};
+✅ Expected Output 1
+2
+Explanation: Adjacent equal numbers: (1,1) and (0,0)
+
+🧪 Sample Input 2
+int[] numbers = {5, 6, 6, 6, 12, 1, 1, 0, 0};
+✅ Expected Output 2
+4
+Explanation: (6,6), (6,6), (1,1), and (0,0)
+

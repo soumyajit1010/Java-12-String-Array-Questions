@@ -1,0 +1,12 @@
+Q5. Remove Duplicates and Spaces
+Description:
+Remove all duplicate characters and white spaces from the string.
+
+Sample Input:
+object oriented programming
+hello world
+
+Expected Output:
+objectrindpgam
+helowrd
+

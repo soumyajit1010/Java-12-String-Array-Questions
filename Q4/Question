@@ -1,0 +1,12 @@
+Q4. Find Highest Occurrence of a Character
+Description:
+Find the count of the character that appears the most in the string.
+
+Sample Input:
+success
+associated
+
+Expected Output:
+3
+2
+

@@ -1,0 +1,50 @@
+✅ Problem Statement: Student Grades Based on Marks
+🔷 Description
+You need to design a program that calculates grades based on marks for each subject a student has appeared for. The marks for different subjects are stored in an array. Based on the marks, corresponding grades should be calculated and stored in another array.
+
+🔷 Class: Student
+Instance Variable	Type	Description
+marks	int[]	Array storing marks in different subjects
+grade	char[]	Array to store calculated grades
+
+🔷 Constructor:
+Student(int[] marks)
+Initializes marks array with the values passed.
+
+Initializes grade array with the same size as marks.
+
+🔷 Methods:
+void findGrade()
+Calculates the grade based on the following rules:
+
+| Marks Range      | Grade |
+| ---------------- | ----- |
+| `>= 92`          | E     |
+| `>= 85 and < 92` | A     |
+| `>= 70 and < 85` | B     |
+| `>= 65 and < 70` | C     |
+| `< 65`           | D     |
+
+
+Stores the result in the grade array.
+
+int[] getMarks()
+Returns the marks array.
+
+void setMarks(int[] marks)
+Sets the marks array.
+
+char[] getGrade()
+Returns the grade array.
+
+void setGrade(char[] grade)
+Sets the grade array.
+
+🔷 Assumptions:
+The minimum mark can be 0 and maximum mark can be 100.
+
+🔷 Sample Input:
+marks = {79, 87, 97, 65, 78, 99, 66}
+🔷 Expected Output:
+Grades corresponding to the marks are :
+B A E C B E C
